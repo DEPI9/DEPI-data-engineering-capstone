@@ -1,5 +1,0 @@
-kafka-python
-pyodbc
-pandas
-python-dateutil
-pytz
