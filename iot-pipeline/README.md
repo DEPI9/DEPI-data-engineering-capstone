@@ -55,7 +55,7 @@ Apache Kafka
 Docker Compose  
 Azure SQL Database  
 Power BI  
-Pandas / Logging / JSON
+Pandas / Logging / CSVs
 
 ## Notes
 - This project follows DEPI Data Engineering Capstone requirements.  
